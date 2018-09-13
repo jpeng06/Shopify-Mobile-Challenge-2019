@@ -1,4 +1,9 @@
-# Shopify Mobile Challenge Winter 2019
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/iTunesArtwork%402x.png" width=200px> 
+
+# ShopiList
+#### Shopify Mobile Challenge Winter 2019
+<hr>
+
 
 
 ## Requirement 
@@ -24,3 +29,9 @@ What you need to submit:
 A screenshot of your app showing the Tags List Page
 A screenshot of your app showing the Products List Page after clicking on “Aerodynamic” from the Tags List Page
 Your project code.
+
+## Demo
+
+TBA
+
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/r.png" height=500px>
