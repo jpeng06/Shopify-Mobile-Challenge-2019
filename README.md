@@ -32,6 +32,11 @@ Your project code.
 
 ## Demo
 
-TBA
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-09-13%20at%2019.38.20.png" height=500px>
+
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-09-13%20at%2019.38.30.png" height=500px>
+
+<img src="hhttps://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-09-13%20at%2019.39.04.png" height=500px>
+
 
 <img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/r.png" height=500px>
