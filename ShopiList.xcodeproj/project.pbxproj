@@ -69,13 +69,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		520CCB4F214B7231006FDC60 /* Mode */ = {
+		520CCB4F214B7231006FDC60 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				52492C10214A284F00002485 /* SectionInfo.swift */,
 				520CCB4D214B3B3B006FDC60 /* ProductInfo.swift */,
 			);
-			path = Mode;
+			path = Model;
 			sourceTree = "<group>";
 		};
 		52492BCE214A0AB200002485 = {
@@ -97,7 +97,7 @@
 		52492BD9214A0AB200002485 /* ShopiList */ = {
 			isa = PBXGroup;
 			children = (
-				520CCB4F214B7231006FDC60 /* Mode */,
+				520CCB4F214B7231006FDC60 /* Model */,
 				52492C07214A164600002485 /* List Table Cell */,
 				52492C06214A155600002485 /* Main View */,
 				52492C05214A153200002485 /* Storyboards */,
