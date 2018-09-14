@@ -46,4 +46,5 @@ Your project code.
 <hr>
 <img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/r.png" height=500px>
 
-## 2018 © John Peng All Rights Reserved 
+#### 2018 © John Peng 
+#### All Rights Reserved 
