@@ -30,6 +30,12 @@ A screenshot of your app showing the Tags List Page
 A screenshot of your app showing the Products List Page after clicking on “Aerodynamic” from the Tags List Page
 Your project code.
 
+## Feature
+
+- Images are loaded dynamically from Shopify API
+- Products are organized based on product tag
+- All data are loaded from Shopify API
+
 ## Demo
 
 <img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-09-13%20at%2021.28.23.png" height=500px>
