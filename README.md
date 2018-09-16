@@ -38,13 +38,17 @@ Your project code.
 
 ## Demo
 
-<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-09-13%20at%2021.28.23.png" height=500px>
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/1.png" height=500px>
 <hr>
-<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-09-13%20at%2021.28.30.png" height=500px>
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/2.png" height=500px>
 <hr>
-<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-09-13%20at%2021.28.59.png" height=500px>
+<img src="hhttps://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/3.png" height=500px>
 <hr>
-<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/r.png" height=500px>
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/4.png" height=500px>
+<hr>
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/5.png" height=500px>
+<hr>
 
-#### 2018 © John Peng 
-#### All Rights Reserved 
+#### 2018 © John Peng | All Rights Reserved 
+<br>
+<img src="https://github.com/jpeng06/Shopify-Mobile-App-Challenge/blob/master/demo/emailsig_2018.png">
