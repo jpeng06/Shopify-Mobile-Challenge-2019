@@ -1,6 +1,6 @@
 <img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/media/iTunesArtwork%402x.png" width=200px> 
 
-# ShopiList
+# ShopiList [![Build Status](https://travis-ci.org/jpeng06/Shopify-Mobile-Challenge-2019.svg?branch=master)](https://travis-ci.org/jpeng06/Shopify-Mobile-Challenge-2019)
 #### Shopify Mobile Challenge Winter 2019
 <hr>
 
