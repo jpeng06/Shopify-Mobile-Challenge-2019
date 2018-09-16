@@ -6,4 +6,4 @@ before_install:
   - npm install ios-sim -g
   - ios-sim start --devicetypeid "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus, 11.4"
 script:
-    - xcodebuild clean
+    xcodebuild clean -project ShopiList.xcodeproj -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
