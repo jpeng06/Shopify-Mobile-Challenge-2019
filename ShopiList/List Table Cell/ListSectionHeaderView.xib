@@ -10,6 +10,11 @@
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
+    <customFonts key="customFonts">
+        <array key="SourceSansPro-Semibold.otf">
+            <string>SourceSansPro-Semibold</string>
+        </array>
+    </customFonts>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
@@ -20,9 +25,9 @@
                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GZR-6y-rWx">
                     <rect key="frame" x="0.0" y="0.0" width="375" height="70"/>
                     <subviews>
-                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h4o-Zh-giu">
-                            <rect key="frame" x="20" y="25" width="270" height="20"/>
-                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" minimumFontSize="8" translatesAutoresizingMaskIntoConstraints="NO" id="h4o-Zh-giu">
+                            <rect key="frame" x="20" y="0.0" width="270" height="70"/>
+                            <fontDescription key="fontDescription" name="SourceSansPro-Semibold" family="Source Sans Pro" pointSize="23"/>
                             <nil key="textColor"/>
                             <nil key="highlightedColor"/>
                         </label>
@@ -37,6 +42,7 @@
                         </button>
                         <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="B4z-Zc-oeA">
                             <rect key="frame" x="0.0" y="0.0" width="375" height="70"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="18"/>
                             <connections>
                                 <action selector="toggleOpen" destination="8y4-NS-y2a" eventType="touchUpInside" id="bC3-BI-fzv"/>
                             </connections>
@@ -54,14 +60,14 @@
                         <constraint firstItem="h4o-Zh-giu" firstAttribute="leading" secondItem="GZR-6y-rWx" secondAttribute="leading" constant="20" id="0DC-LE-t2N"/>
                         <constraint firstItem="AFu-sv-Off" firstAttribute="leading" secondItem="h4o-Zh-giu" secondAttribute="trailing" constant="25" id="6i1-Xo-Znd"/>
                         <constraint firstItem="h4o-Zh-giu" firstAttribute="centerY" secondItem="GZR-6y-rWx" secondAttribute="centerY" id="NZC-2L-vq6"/>
-                        <constraint firstItem="h4o-Zh-giu" firstAttribute="top" secondItem="GZR-6y-rWx" secondAttribute="top" constant="25" id="Vaf-3B-wpi"/>
+                        <constraint firstItem="h4o-Zh-giu" firstAttribute="top" secondItem="GZR-6y-rWx" secondAttribute="top" id="Vaf-3B-wpi"/>
                         <constraint firstAttribute="trailing" secondItem="AFu-sv-Off" secondAttribute="trailing" constant="10" id="Wnw-YS-U0l"/>
                         <constraint firstAttribute="bottom" secondItem="T8A-5m-0c4" secondAttribute="bottom" id="YaS-A7-hEJ"/>
                         <constraint firstItem="B4z-Zc-oeA" firstAttribute="leading" secondItem="GZR-6y-rWx" secondAttribute="leading" id="YrX-XK-5oN"/>
                         <constraint firstAttribute="height" constant="70" id="bmw-QY-oDD"/>
                         <constraint firstAttribute="trailing" secondItem="T8A-5m-0c4" secondAttribute="trailing" id="f3G-qY-x8e"/>
                         <constraint firstAttribute="bottom" secondItem="B4z-Zc-oeA" secondAttribute="bottom" id="fsL-mI-5OE"/>
-                        <constraint firstAttribute="bottom" secondItem="h4o-Zh-giu" secondAttribute="bottom" constant="25" id="fv6-kb-GtY"/>
+                        <constraint firstAttribute="bottom" secondItem="h4o-Zh-giu" secondAttribute="bottom" id="fv6-kb-GtY"/>
                         <constraint firstItem="B4z-Zc-oeA" firstAttribute="top" secondItem="GZR-6y-rWx" secondAttribute="top" id="lCs-wD-TRO"/>
                         <constraint firstAttribute="trailing" secondItem="B4z-Zc-oeA" secondAttribute="trailing" id="qqB-Hj-EBu"/>
                         <constraint firstItem="T8A-5m-0c4" firstAttribute="leading" secondItem="GZR-6y-rWx" secondAttribute="leading" id="rzp-oN-ED2"/>
