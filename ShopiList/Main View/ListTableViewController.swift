@@ -60,7 +60,6 @@ class ListTableViewController: UITableViewController, SectionHeaderViewDelegate 
         let sectionInfo: SectionInfo = sectionInfoArray[indexPath.section] as! SectionInfo
         let item = sectionInfo.itemsInSection[indexPath.row] as! ProductInfo
         
-        
         cell.productImg.imageFromURL(urlString: item.image)    // UIImage(named: "r")
         cell.productName.text = item.title
         var subtitle = ""
@@ -77,6 +76,7 @@ class ListTableViewController: UITableViewController, SectionHeaderViewDelegate 
         let sectionHeaderView: ListSectionHeaderView! = self.tableView.dequeueReusableHeaderFooterView(withIdentifier: SectionHeaderViewIdentifier) as! ListSectionHeaderView
         let sectionInfo: SectionInfo = sectionInfoArray[section] as! SectionInfo
         
+        sectionHeaderView.disclosureButton.isSelected = !sectionInfo.open
         sectionHeaderView.titleLabel.text = sectionInfo.sectionTitle
         sectionHeaderView.section = section
         sectionHeaderView.delegate = self

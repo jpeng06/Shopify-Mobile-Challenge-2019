@@ -24,8 +24,6 @@ class ListSectionHeaderView: UITableViewHeaderFooterView {
     var delegate: SectionHeaderViewDelegate?
     
     override func awakeFromNib() {
-        let tapGesture: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(ListSectionHeaderView.toggleOpen))
-        self.addGestureRecognizer(tapGesture)
         self.disclosureButton.setImage(UIImage(named: "arrow_up"), for: UIControlState.selected)
         self.disclosureButton.setImage(UIImage(named: "arrow_down"), for: UIControlState.normal)
     }
