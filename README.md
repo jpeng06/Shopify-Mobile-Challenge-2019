@@ -44,7 +44,7 @@ Your project code.
 
 <img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/5.png" height=500px>
 
-<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/r.png" height=500px>
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/6.png" height=500px>
 
 #### 2018 © John Peng | All Rights Reserved 
 <br>
