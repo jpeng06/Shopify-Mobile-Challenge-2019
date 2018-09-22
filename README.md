@@ -36,18 +36,15 @@ Your project code.
 - All data are loaded from Shopify API
 
 ## Demo
-
 <img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/1.png" height=500px>
-<hr>
-<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/2.png" height=500px>
-<hr>
-<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/3.png" height=500px>
-<hr>
-<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/5.png" height=500px>
-<hr>
-<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/r.png" height=500px>
-<hr>
 
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/2.png" height=500px>
+
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/3.png" height=500px>
+
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/5.png" height=500px>
+
+<img src="https://github.com/jpeng06/Shopify-Mobile-Challenge-2019/blob/master/Media/r.png" height=500px>
 
 #### 2018 © John Peng | All Rights Reserved 
 <br>
